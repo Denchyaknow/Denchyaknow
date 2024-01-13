@@ -1,10 +1,5 @@
-### Unity Developer 
+### Your friendly neighborhood Unity Developer 
 
-<div align="center">
-  <a href="https://github.com/Denchyaknow">
-    <img src="https://codestats-readme.avior.me/api/?username=Denchyaknow&show_icons=true&theme=nightowl" />
-  </a>
-</div>
 <div align="center">
   <table>
     <tr align="center">
@@ -12,6 +7,11 @@
           <img src="https://raw.githubusercontent.com/Denchyaknow/MyStats/master/generated/overview.svg#gh-dark-mode-only" />
           <img src="https://raw.githubusercontent.com/Denchyaknow/MyStats/master/generated/languages.svg#gh-dark-mode-only" />
       </a>
+    </tr>
+    <tr>
+     <a href="https://github.com/Denchyaknow">
+      <img src="https://codestats-readme.avior.me/api/?username=Denchyaknow&show_icons=true&theme=nightowl" />
+    </a>
     </tr>
     <tr>
       <a href="https://github.com/Denchyaknow">
